@@ -1,0 +1,2 @@
+# NLP-to_be_or_not_to_be
+The verb "to be", in its different forms, is one of the most commonly used building  blocks of the English language. Given a paragraph of text in which some of the derivates of this verb have  been blanked out.  At various points in the text, occurences of  'am','are','were','was','is','been','being','be' have been blanked out and replaced with a  series of four consecutive hyphens (----). Task is to identify which of these words  can appropriately fill up these blanks.
